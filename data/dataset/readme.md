@@ -20,3 +20,7 @@
 
 [3] Scooter
 * Web-crawling을 통해 데이터셋 수집
+
+[4] Load(Segmentation)
+* XML 파일로 되어있어 YOLOv8 format으로 변경함
+  * AI-hub 제공 데이터셋 활용
